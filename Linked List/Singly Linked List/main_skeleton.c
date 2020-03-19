@@ -3,14 +3,48 @@
 
 // Declare node structure here
 
-void insert_begn();
-void insert_spec();
-void insert_last();
-void delete_begn();
-void deleted_spec();
-void delete_last();
-void display();
-void search();
+// write node functions
+
+void insert_begn()
+{
+
+}
+
+void insert_spec()
+{
+
+}
+
+void insert_last()
+{
+
+}
+
+void delete_begn()
+{
+
+}
+
+void deleted_spec()
+{
+
+}
+
+void delete_last()
+{
+
+}
+
+void display()
+{
+
+}
+
+void search()
+{
+ 
+}
+
 
 int main()
 {
@@ -53,45 +87,4 @@ int main()
   return 0;
 }
 
-// write node functions
-
-void insert_begn()
-{
-
-}
-
-void insert_spec()
-{
-
-}
-
-void insert_last()
-{
-
-}
-
-void delete_begn()
-{
-
-}
-
-void deleted_spec()
-{
-
-}
-
-void delete_last()
-{
-
-}
-
-void display()
-{
-
-}
-
-void search()
-{
- 
-}
 
